@@ -68,6 +68,8 @@ cv2.waitKey(0)
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+![Screenshot from 2024-03-30 12-50-33](https://github.com/syedmokthiyar/Histogram-of-an-images/assets/118787294/439abf3e-3fbd-4bc7-8937-8b389280295b)
+
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
